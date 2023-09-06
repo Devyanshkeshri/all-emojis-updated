@@ -1,2 +1,2 @@
 # all-emojis-updated
-read the title
+read the title , check the releases
